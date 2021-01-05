@@ -53,7 +53,7 @@ setup(
         'docopt',
         'passlib',
         'py',
-        'pyinstaller==3.2',
+        'pyinstaller==3.6',
         'pyyaml',
         'requests==2.10.0',
         'retrying',
