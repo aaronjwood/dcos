@@ -55,7 +55,7 @@ setup(
         'py',
         'pyinstaller==3.2',
         'pyyaml',
-        'requests==2.10.0',
+        'requests==2.20.0',
         'retrying',
         'keyring==9.1',  # FIXME: pin keyring to prevent dbus dep
         'teamcity-messages'],
